@@ -1,4 +1,4 @@
 # rohit
 this is my first repository.
 <br>
-Author - Rohit sharma
+Author - Rohit sharma(apna collage)
